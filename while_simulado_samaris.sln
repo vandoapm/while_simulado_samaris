@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while_simulado_samaris", "while_simulado_samaris.csproj", "{1E2D6B3B-A7C5-42D4-B3D6-38D34EFC4CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E2D6B3B-A7C5-42D4-B3D6-38D34EFC4CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2D6B3B-A7C5-42D4-B3D6-38D34EFC4CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2D6B3B-A7C5-42D4-B3D6-38D34EFC4CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2D6B3B-A7C5-42D4-B3D6-38D34EFC4CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB68AD56-3B7F-4962-B301-958E7AC8215B}
+	EndGlobalSection
+EndGlobal
